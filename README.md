@@ -1,6 +1,6 @@
 # Mr. CyberBox – Cybersecurity Toolbox
 
-![Mr. CyberBox Logo](https://github.com/Abdelrhman-Ahmed1/Mr.CyberBox/blob/4e88c646a2343318ec704365e04f08fef7afc37f/Mr.CyberBox.mp4)
+![Mr. CyberBox Logo](./Mr.CyberBox.mp4)
 
 **Mr. CyberBox** is an all-in-one **cybersecurity toolbox** built with [Flet](https://flet.dev/) and Python, designed for **ethical hackers**, **network engineers**, and **tech enthusiasts**.  
 It combines **powerful security tools** into a single, modern desktop app to help you work smarter and faster.
